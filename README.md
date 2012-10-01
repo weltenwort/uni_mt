@@ -1,2 +1,4 @@
-uni_mt
-======
+multiblob
+=========
+
+An interactive multitouch multiplayer game.
